@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Friendly Machine Learning for the Web.
+title: Friendly Machine Learning for the Web hi.
 description: >-
   The library is supported by code examples, tutorials, and sample datasets with an emphasis on ethical computing.
   Bias in data, stereotypical harms, and responsible crowdsourcing are part of the documentation around data collection
